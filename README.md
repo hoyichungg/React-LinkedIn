@@ -12,7 +12,7 @@
 - **動態分享**: 使用者可以發布動態。
 
 ## 測試
-admin@gmail.com
-admin123
+- Email: admin@gmail.com
+- Password: admin123
 
 #### [Demo](https://linkedin-f553a.firebaseapp.com/)
