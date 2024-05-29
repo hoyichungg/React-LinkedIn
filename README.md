@@ -11,4 +11,8 @@
 - **使用者認證**: 使用者可以註冊新帳號和登入已有帳號。
 - **動態分享**: 使用者可以發布動態。
 
+## 測試
+admin@gmail.com
+admin123
+
 #### [Demo](https://linkedin-f553a.firebaseapp.com/)
